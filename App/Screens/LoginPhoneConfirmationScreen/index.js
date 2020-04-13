@@ -1,0 +1,3 @@
+import LoginPhoneConfirmationScreen from './LoginPhoneConfirmationScreen'
+
+export default LoginPhoneConfirmationScreen

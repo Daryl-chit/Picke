@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "461510704104",
+    "firebase_url": "https://picke-b9fe1.firebaseio.com",
+    "project_id": "picke-b9fe1",
+    "storage_bucket": "picke-b9fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461510704104:android:0d17375d0fec409b",
+        "android_client_info": {
+          "package_name": "com.soarables.pickie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461510704104-ivss8ttdp90ursenel89vrjrk1gfb66j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soarables.pickie",
+            "certificate_hash": "413c9498ba41e9b032b070d27af9384dda1360e6"
+          }
+        },
+        {
+          "client_id": "461510704104-4532m7hii352so44tck5notvf5hsa4aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soarables.pickie",
+            "certificate_hash": "0608f9a54696b14e9438500c09b4c0f9638a4773"
+          }
+        },
+        {
+          "client_id": "461510704104-tsmbrch0hgirgeidj3jjvlc10csg1klq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461510704104-tsmbrch0hgirgeidj3jjvlc10csg1klq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDMgFelIWlRw93YPqQDpohg9NhWk5LH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461510704104-tsmbrch0hgirgeidj3jjvlc10csg1klq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
